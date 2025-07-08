@@ -1,8 +1,14 @@
 title: "PinnHe's Blog"
-   description: "Welcome to PinnHe's personal blog!"
-   theme: jekyll-theme-cayman
-   plugins:
-     - jekyll-feed
-     - jekyll-seo-tag
-   url: "https://pinnhe.github.io"
-   author: "PinnHe"
+description: "Welcome to PinnHe's personal blog!"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+url: "https://pinnhe.github.io"
+baseurl: "" # Add this explicitly; change to "/subdirectory" if hosted in a subdirectory
+author: "PinnHe"
+markdown: kramdown
+permalink: /:year/:month/:day/:title.html # Optional: custom permalink style
+timezone: Asia/Shanghai # Optional: set your timezone
+future: false # Optional: prevent future-dated posts from publishing
+exclude: [Gemfile, Gemfile.lock, node_modules, vendor] # Optional: exclude unnecessary files
