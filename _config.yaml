@@ -1,5 +1,5 @@
 title: "PinnHe's Blog"
-   description: "Welcome"
+   description: "Welcome to PinnHe's personal blog!"
    theme: jekyll-theme-cayman
    plugins:
      - jekyll-feed
