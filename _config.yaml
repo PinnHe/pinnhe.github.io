@@ -1,8 +1,8 @@
 title: PinnHe's Blog
-     description: 欢迎访问 PinnHe 的个人博客！
-     theme: jekyll-theme-cayman
-     plugins:
-       - jekyll-feed
-       - jekyll-seo-tag
-     url: "https://pinnhe.github.io"
-     author: PinnHe
+   description: 欢迎访问 PinnHe 的个人博客！
+   theme: jekyll-theme-cayman
+   plugins:
+     - jekyll-feed
+     - jekyll-seo-tag
+   url: https://pinnhe.github.io
+   author: PinnHe
